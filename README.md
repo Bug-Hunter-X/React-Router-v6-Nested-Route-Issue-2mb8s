@@ -1,0 +1,2 @@
+# React Router v6 Nested Route Bug
+This repository demonstrates a bug encountered when using nested routes in React Router v6.  The issue involves a nested route seemingly being ignored, preventing the nested component from rendering.  The solution involves ensuring proper path definitions and understanding how nested routes behave within the React Router v6 context.  The `bug.js` file contains the buggy code, and `bugSolution.js` provides a corrected implementation.
